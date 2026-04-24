@@ -1,1 +1,2 @@
-Assignment-1 SQL
+Assignment-1 SQL (data.sql)
+Assignment-2 SQL (dataM.sql)
